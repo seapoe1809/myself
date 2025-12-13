@@ -12,13 +12,17 @@ and even black holes are not randomly distributed, but emerge where gravitationa
 the hard part: grounding these ideas in research, mathematics, and calculations to see whether this line of thought can stand up to scrutiny.
 
 
+
 ![Cosmic Void](https://www.universetoday.com/article_images/cosmicvoid.jpg)
+
+SIMULATION
 
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/gravity_filament_equations.pdf" width =300, height=550>
 
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/cosmic_web_analysis.png" width =300, height=550>
+
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/cosmic_web_filaments.png" width =300, height=550>
-<img src="https://github.com/seapoe1809/myself/blob/main/musing1/cosmic_web_simulation.png" width =300, height=550>
+
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/hessian_analysis.png" width =300, height=550>
 
 NOTE: I used Gen ai for my work
