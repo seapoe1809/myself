@@ -26,7 +26,7 @@ SIMULATION
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/hessian_analysis.png" width =300, height=550>
 
 
-As I continued to explore this, I found an article of about how fungal filaments grow using filaments. I wonder if I used a modeling for that to get the cosmic web. How cool would that be?
+As I continued to explore this, I found an article of about how fungal filaments grow using nodes. I wonder if I used a modeling for that to get the cosmic web. How cool would that be?
 
 Here is an attempt I read about at modeling the fungal growth:
 https://2018.igem.org/Team:DTU-Denmark/GrowthModelling
