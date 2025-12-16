@@ -17,7 +17,6 @@ the hard part: grounding these ideas in research, mathematics, and calculations 
 
 SIMULATION
 
-<img src="https://github.com/seapoe1809/myself/blob/main/musing1/gravity_filament_equations.pdf" width =300, height=550>
 
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/cosmic_web_analysis.png" width =300, height=550>
 
@@ -35,7 +34,10 @@ Here is an attempt I read about at modeling the fungal growth and used to simula
 https://2018.igem.org/Team:DTU-Denmark/GrowthModelling
 
 
-Simulation:
+SIMULATION
+
+
+
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/fungal_growth/fungal_cosmic_web_analysis.png" width =300, height=550>
 
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/fungal_growth/fungal_cosmic_web_beauty.png" width =300, height=550>
