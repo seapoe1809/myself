@@ -31,6 +31,8 @@ Here is an attempt I read about at modeling the fungal growth and used to simula
 
 <img src="https://static.igem.org/mediawiki/2018/b/bf/T--DTU-Denmark--T--DTU-Denmark--hyphal-gifs-speed.gif" width =300, height=550>
 
+<img src="https://static.igem.org/mediawiki/2018/d/da/T--DTU-Denmark--model-growth-fig-6.gif" width =300, height=550>
+
 https://2018.igem.org/Team:DTU-Denmark/GrowthModelling
 
 
