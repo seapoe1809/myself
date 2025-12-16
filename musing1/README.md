@@ -30,7 +30,10 @@ As I continued to explore this, I found an article of about how fungal filaments
 
 Here is an attempt I read about at modeling the fungal growth and used to simulate the web:
 
+<img src="https://static.igem.org/mediawiki/2018/b/bf/T--DTU-Denmark--T--DTU-Denmark--hyphal-gifs-speed.gif" width =300, height=550>
+
 https://2018.igem.org/Team:DTU-Denmark/GrowthModelling
+
 
 Simulation:
 <img src="https://github.com/seapoe1809/myself/blob/main/musing1/fungal_growth/fungal_cosmic_web_analysis.png" width =300, height=550>
